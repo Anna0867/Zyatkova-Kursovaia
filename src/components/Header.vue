@@ -9,7 +9,7 @@
             <router-link to="/about" class="nav-link">О нас</router-link>
           </li>
           <li>
-            <a href="#volunteer" class="nav-link">Волонтерство</a>
+            <a href="/#volunteer" class="nav-link">Волонтерство</a>
           </li>
           <li>
             <router-link to="/pets" class="nav-link">Питомцы</router-link>
