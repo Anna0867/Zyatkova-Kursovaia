@@ -22,11 +22,14 @@ import Header from './components/Header.vue';
   box-sizing: border-box;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   font-family: 'Montserrat', sans-serif;
   background: #F5F1ED;
   color: #3D2C25;
-  
 }
 main {
   min-height: calc(100vh - 160px); /* чтобы футер не прилипал к середине */
