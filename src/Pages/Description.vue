@@ -90,6 +90,10 @@ export default {
 </script>
 
 <style scoped>
+.pet-desc{
+  margin-bottom: 60px;
+}
+
 .title {
   text-align: center;
   font-size: 42px;
